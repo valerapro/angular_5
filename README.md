@@ -33,7 +33,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 - [x] Components
 - [x] Templating & Styling
-- [ ] Interpolation, Property & Event Binding
+- [x] Interpolation, Property & Event Binding
 - [ ] Animation
 - [ ] Routing 
 - [ ] Services
