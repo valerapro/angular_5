@@ -32,7 +32,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Task Lists
 
 - [x] Components
-- [ ] Templating & Styling
+- [x] Templating & Styling
 - [ ] Interpolation, Property & Event Binding
 - [ ] Animation
 - [ ] Routing 
