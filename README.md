@@ -36,6 +36,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - [x] Interpolation, Property & Event Binding
 - [x] Animation
 - [x] Routing 
-- [ ] Services
+- [x] Creating services. Send data between services.
 - [ ] App Deployment
 - [ ] API back end on Symfony4
