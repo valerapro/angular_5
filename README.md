@@ -1,6 +1,7 @@
 ## Info
 
 Sheet of desires and goals.
+![app example](https://github.com/valerapro/tasklist_ng5/blob/master/README/tasklist_ng5.png)
 
 ## Working with the project
 
